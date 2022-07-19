@@ -1,0 +1,74 @@
+{
+  "name": "Playaz #67",
+  "symbol": "PLYZNFT",
+  "description": "Playaz is a collection of 4,444 NFTs on the Solana blockchain that artfully infuse modern fashion with hip-hop/urban culture while being deeply rooted in community, real world utility and web 3.0 education. Playaz aim to create, foster, and encourage a safe space for creatives and crypto native people to collaborate and bring about tomorrow's vision of fashion and web 3.0.",
+  "seller_fee_basis_points": 500,
+  "image": "67.png",
+  "external_url": "https://playaznft.club",
+  "edition": 67,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Icy Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pshirt White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "LV Bag"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Tracksuit Red"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Viper Green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trucker Hat Red"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3p4hgy9cCJVKYdu1fmTQGr5pPz3KhCMsJgWR8ydcYiBe",
+        "share": 100
+      }
+    ],
+    "collection": [
+      {
+        "name": "Playaz",
+        "family": "PlayazNFT"
+      }
+    ]
+  },
+  "uri": "67.png",
+  "baseUri": "67.png"
+}

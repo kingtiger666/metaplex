@@ -1,123 +1,74 @@
 {
-  "name": "FurrSols #7",
-  "symbol": "FURR",
-  "description": "An adorable or not so adorable digital pet in Solana.",
-  "seller_fee_basis_points": 800,
+  "name": "Playaz #7",
+  "symbol": "PLYZNFT",
+  "description": "Playaz is a collection of 4,444 NFTs on the Solana blockchain that artfully infuse modern fashion with hip-hop/urban culture while being deeply rooted in community, real world utility and web 3.0 education. Playaz aim to create, foster, and encourage a safe space for creatives and crypto native people to collaborate and bring about tomorrow's vision of fashion and web 3.0.",
+  "seller_fee_basis_points": 500,
   "image": "7.png",
-  "external_url": "https://furrsols.io",
+  "external_url": "https://playaznft.club",
   "edition": 7,
-  "BreedCount": "0",
-  "Sleep": "83",
-  "MaxSleep": "83",
-  "Hunger": "93",
-  "MaxHunger": "93",
-  "Hygiene": "88",
-  "MaxHygiene": "88",
-  "Fun": "88",
-  "MaxFun": "88",
   "attributes": [
     {
-      "trait_type": "Class",
-      "value": "Winter"
-    },
-    {
-      "trait_type": "Gen",
-      "value": "GenZERO"
-    },
-    {
-      "trait_type": "Breed Count",
-      "value": "0"
-    },
-    {
-      "trait_type": "Upgrades",
-      "value": "0"
-    },
-    {
-      "trait_type": "Sleep",
-      "value": "0"
-    },
-    {
-      "trait_type": "Max Sleep",
-      "value": "81"
-    },
-    {
-      "trait_type": "Hunger",
-      "value": "0"
-    },
-    {
-      "trait_type": "Max Hunger",
-      "value": "91"
-    },
-    {
-      "trait_type": "Hygiene",
-      "value": "0"
-    },
-    {
-      "trait_type": "Max Hygiene",
-      "value": "86"
-    },
-    {
-      "trait_type": "Fun",
-      "value": "0"
-    },
-    {
-      "trait_type": "Max Fun",
-      "value": "86"
-    },
-    {
-      "trait_type": "Guild ID",
-      "value": "0"
-    },
-    {
-      "trait_type": "FLUFF",
-      "value": "0"
-    },
-    {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Red"
     },
     {
-      "trait_type": "Fur",
-      "value": "Winter Diamond 2"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Chibi Purple"
-    },
-    {
-      "trait_type": "Headgear",
-      "value": "Wizard Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Worn Out Jersey"
+      "trait_type": "Body",
+      "value": "Gold"
     },
     {
       "trait_type": "Mouth",
-      "value": "Nyan"
+      "value": "Smoke"
     },
     {
-      "trait_type": "Toy",
-      "value": "Soccer Ball"
+      "trait_type": "Eyes",
+      "value": "Normy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Checker Bag"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Bear Hoodie Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Viper Purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trucker Hat Camo"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "7.png",
+        "uri": "image.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "AABA9pyWrb2ju8KfeaTibXX6KatMSiD6MPRhFZFFConQ",
-        "share": 50
-      },
+        "address": "3p4hgy9cCJVKYdu1fmTQGr5pPz3KhCMsJgWR8ydcYiBe",
+        "share": 100
+      }
+    ],
+    "collection": [
       {
-        "address": "3fRJGmYf9s1hBU9D3qoxTmfkKogKxzcBYBzzT7eF73Ni",
-        "share": 40
+        "name": "Playaz",
+        "family": "PlayazNFT"
       }
     ]
-  }
+  },
+  "uri": "7.png",
+  "baseUri": "7.png"
 }
