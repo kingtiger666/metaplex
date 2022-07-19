@@ -1,0 +1,123 @@
+{
+  "name": "FurrSols #96",
+  "symbol": "FURR",
+  "description": "An adorable or not so adorable digital pet in Solana.",
+  "seller_fee_basis_points": 800,
+  "image": "96.png",
+  "external_url": "https://furrsols.io",
+  "edition": 96,
+  "BreedCount": "0",
+  "Sleep": "83",
+  "MaxSleep": "83",
+  "Hunger": "93",
+  "MaxHunger": "93",
+  "Hygiene": "88",
+  "MaxHygiene": "88",
+  "Fun": "88",
+  "MaxFun": "88",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "GenZERO"
+    },
+    {
+      "trait_type": "Breed Count",
+      "value": "0"
+    },
+    {
+      "trait_type": "Upgrades",
+      "value": "0"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "0"
+    },
+    {
+      "trait_type": "Max Sleep",
+      "value": "81"
+    },
+    {
+      "trait_type": "Hunger",
+      "value": "0"
+    },
+    {
+      "trait_type": "Max Hunger",
+      "value": "93"
+    },
+    {
+      "trait_type": "Hygiene",
+      "value": "0"
+    },
+    {
+      "trait_type": "Max Hygiene",
+      "value": "88"
+    },
+    {
+      "trait_type": "Fun",
+      "value": "0"
+    },
+    {
+      "trait_type": "Max Fun",
+      "value": "85"
+    },
+    {
+      "trait_type": "Guild ID",
+      "value": "0"
+    },
+    {
+      "trait_type": "FLUFF",
+      "value": "0"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Winter Normal 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Furring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grills"
+    },
+    {
+      "trait_type": "Toy",
+      "value": "Yarn"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "96.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AABA9pyWrb2ju8KfeaTibXX6KatMSiD6MPRhFZFFConQ",
+        "share": 50
+      },
+      {
+        "address": "3fRJGmYf9s1hBU9D3qoxTmfkKogKxzcBYBzzT7eF73Ni",
+        "share": 40
+      }
+    ]
+  }
+}
